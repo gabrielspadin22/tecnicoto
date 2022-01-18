@@ -1,0 +1,15 @@
+.nav-container{
+    min-width: 329px;
+}
+.copy{
+    border: none;
+}
+.btn-navi{
+    color: rgb(61, 61, 155);
+}
+.container-sucu{
+    background-color: rgb(204, 204, 204);
+    box-shadow: 1px 7px 5px 0px rgba(0,0,0,0.34);
+-webkit-box-shadow: 1px 7px 5px 0px rgba(0,0,0,0.34);
+-moz-box-shadow: 1px 7px 5px 0px rgba(0,0,0,0.34);
+}
